@@ -1,0 +1,20 @@
+{
+    "crews":[
+        {
+            "id": 0,
+            "first_name": "Jake",
+            "last_name": "Parker",
+            "birth_date": "21-03-1978",
+            "phone_number": "6281778345123",
+            "email_address": "jakeparker@gmail.com"
+        },
+        {
+            "id": 1,
+            "first_name": "Marcus",
+            "last_name": "Kipling",
+            "birth_date": "01-11-1984",
+            "phone_number": "628568922331",
+            "email_address": "marcuskipling@gmail.com"
+        }
+    ]
+}
